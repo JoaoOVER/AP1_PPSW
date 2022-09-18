@@ -41,3 +41,4 @@
     <img src="img-readme/Resultado-do-validado.png" width="800px" alt="Resultado do validado">
     <p>Acess Monitor:</p>
     <img src="img-readme/nota-acces-monitor.png" width="800px" alt="Nota Acess Monitor">
+    
