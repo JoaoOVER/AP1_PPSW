@@ -9,6 +9,10 @@ body {
     background: #e6e6e6;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* Cabeçalho da Pagina */
 header {
     width: auto;
