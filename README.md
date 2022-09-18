@@ -1,7 +1,7 @@
-# AP1 – CONSTRUÇÃO DE PÁGINA WEB VÁLIDAS E ACESSÍVEIS
-    <h1>
+<h1>AP1 – CONSTRUÇÃO DE PÁGINA WEB VÁLIDAS E ACESSÍVEIS</h1>
+    <h2>
         PROPOSTA DE TRABALHO
-    </h1>
+    </h2>
     <p>
         Construir uma página web de tema livre contendo os seguintes elementos HTML:
     </p>
@@ -36,9 +36,8 @@
         A página deve estar nos padrões aceitáveis de acessibilidade definidos pelo Access Monitor e para isso deve passar no teste de acessibilidade do WCAG 2.1 do W3C. Para validar a página, acesse o link:<a href="https://accessmonitor.acessibilidade.gov.pt/">https://accessmonitor.acessibilidade.gov.pt.</a> Ao submeter à página ao sistema de validação, o resultado deve ser próximo do seguinte:
     </p>
     <img src="img-readme/nota-pagina.png" alt="nota da pagina">
-    <hr>
-    <h2>Resultado das avaliaçoes da pagina entregues</h2>
+    <h2>Resultado das avaliaçoes da pagina entregue</h2>
     <p>validado:</p>
     <img src="img-readme/Resultado-do-validado.png" width="800px" alt="Resultado do validado">
-    <p>Acess Monitor</p>
+    <p>Acess Monitor:</p>
     <img src="img-readme/nota-acces-monitor.png" width="800px" alt="Nota Acess Monitor">
