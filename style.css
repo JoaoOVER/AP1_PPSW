@@ -1,0 +1,150 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 1em;
+    background: #e6e6e6;
+}
+
+/* Cabeçalho da Pagina */
+header {
+    width: auto;
+    height: 220px;
+    text-align: center;
+    border-radius: 0px 0px 15px 15px;
+    background-color: #589FFF;
+}
+
+header img {
+    width: auto;
+    height: 220px;
+}
+
+/* Corpo da Pagina */
+main {
+    width: 920px;
+    margin: 15px auto;
+}
+
+.area-postagens, .area-lateral, .area-links {
+    border-radius: 5px;
+    background: #fff;
+}
+
+.area-postagens {
+    width: 650px;
+    float: left;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.area-lateral {
+    width: 240px;
+    float: right;
+}
+
+.area-links {
+    width: 240px;
+    float: right;
+    margin-top: 20px;
+}
+
+footer {
+    clear: both;
+    padding: 15px;
+    font-weight: bold;
+    text-align: center;
+    background: #ccc;
+}
+
+/* Configurações em geral da pagina */
+figure {
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5em;
+    margin: 15px 0px;
+    padding: 0px 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+h2 {
+    margin: 15px 5px;
+}
+
+p {
+    margin: 15px 5px;
+    text-align: justify;
+}
+
+p.referencia, p.volta-topo {
+    text-align: center;
+}
+
+p.volta-topo img {
+    width: 50px;
+    height: 50px;
+}
+
+.links-conteudo {
+    text-decoration: none;
+    color: black;
+}
+
+.links-conteudo:hover {
+    border-bottom: 1px solid black;
+} 
+
+/* area lteral */
+.formulario {
+    padding: 15px;
+}
+
+.formulario input {
+    width: 190px;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.formulario button {
+    width: 205px;
+    padding: 10px;
+    margin: 7px 0px 0px 0px;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    background: #589FFF;
+}
+
+.formulario button:hover {
+    color: #fff;
+    cursor: pointer;
+}
+
+.links-latera {
+    padding: 15px;
+}
+
+.area-links h3 {
+    padding: 10px;
+    text-align: center;
+    background: #589FFF;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.links-latera a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.links-latera a:hover {
+    color: #589FFF;
+    cursor: pointer;
+}
